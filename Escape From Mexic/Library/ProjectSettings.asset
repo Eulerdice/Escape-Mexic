@@ -469,8 +469,12 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    UNet: 1
-  cloudProjectId: 87ca10ff-bdae-466d-9d28-714ff9301f12
-  projectName: Escape From Mexic
-  organizationId: versay
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
